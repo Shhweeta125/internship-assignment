@@ -64,4 +64,4 @@ Requires JWT token in Authorization header.
 
 ## Author
 
-Shweta Kumari
+Shweta
